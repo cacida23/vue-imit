@@ -1,0 +1,44 @@
+channels
+  type Array
+  value '[channel,channel,.....]'ojn bnh ,qe
+  des 所有分类的集合，根数据
+  -channel
+    type Object
+    value '{id，channelsubs}'
+    des 对分类项的具体描述
+    -id
+      type String
+      value '123'
+      des 唯一表示一个类别
+    -channelsubs
+      type Array
+      value '[channelsub,channelsub...]'
+      des 某一类别的子类别构成的集合
+      -channelsub
+        type Object
+        value '{id，somegoods，imgUrl}'
+        des 某一类别的子类别构成的集合
+        -id
+          type String
+          value '456'
+          des 唯一确定一个子类别
+        -somegoods
+          type Array
+          value '[item1,item2....]'
+          des 某一子类下所有的商品的集合
+          item
+            type Object
+            value {id，imgUrl}
+            des 某一子类下所有的商品的集合
+            -id
+              type String
+              value '789'
+              des 唯一确定一个商品，用于发送请求
+            -imgUrl
+              type String
+              value 'http://.....'
+              des 代表商品的图片的路径，用于页面展示
+        -imgUrl
+          type String
+          value 'http://.....'
+          des 代表次子类的图片的路径，用于页面展示

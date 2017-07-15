@@ -1,0 +1,1783 @@
+[
+  {
+    "Source": "app",
+    "Type": "banner",
+    "Location": null,
+    "InnerData": [
+      {
+        "ImageUrl": "/upload/IndexBanner/0831c006f0154dcbbbc7f6f59b6e02d7.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/24755",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/e234e5b64ab1456c9345dc8a4d604fb2.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/25191",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/924590309cb749fabf810a832a402984.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/24683",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/25ed8e7932c74865b02ce4ef01afae6f.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/22170",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/ca89d0017a934d34bdb33cf059c558ea.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/24318",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/85f5aea681ab4e98b72f1d59b9a5b073.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/22812",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/b074f4f091d44569acdd9d001cd4e0b5.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "inner:///item/24068",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      },
+      {
+        "ImageUrl": "/upload/IndexBanner/dd0e77b30b7a4457ad4bff10a5ef028e.jpg",
+        "Type": null,
+        "TargetId": 0,
+        "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject061604",
+        "Appeal": null,
+        "CountdownTag": null,
+        "CountdownTime": 0
+      }
+    ],
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "Shortcut",
+    "Location": null,
+    "InnerData": [
+      {
+        "Source": "app",
+        "Type": "discount",
+        "Location": "/activities/discount?activityId=99",
+        "Name": "限时减价",
+        "Notice": "44",
+        "NeedLogin": false,
+        "Icon": "/images/shortcut/i_clock@2x.png",
+        "Uri": "app://discount/activities/discount?activityId=9#限时减价"
+      }
+    ],
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CountDownTime",
+    "Location": null,
+    "InnerData": {
+      "Title": {
+        "Text": "",
+        "Uri": null,
+        "Selections": null,
+        "Color": null,
+        "IconUrl": null,
+        "IconHeight": 0,
+        "IconWidth": 0
+      },
+      "SubTitle": null,
+      "Content": "",
+      "ItemShelf": [],
+      "FootButton": null
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CountDownTime_V2",
+    "Location": null,
+    "InnerData": null,
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "ShortCut_2",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/b6b9a0221e3b47b7a92b36201272f9e6.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 180,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 11,
+          "EndXP": 33,
+          "EndYP": 98,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070803"
+        },
+        {
+          "BeginXP": 33,
+          "BeginYP": 10,
+          "EndXP": 67,
+          "EndYP": 100,
+          "Uri": "http://m.lifevc.com/activity/DrawShareGoods#s={session} "
+        },
+        {
+          "BeginXP": 67,
+          "BeginYP": 10,
+          "EndXP": 100,
+          "EndYP": 99,
+          "Uri": "http://m.lifevc.com/activity/IntegralTimeOut#s={session}"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/fd21885d82b64d66afdde74fe77af6c8.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 300,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 1,
+          "EndXP": 100,
+          "EndYP": 99,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject071102"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/32857ff42daf46a59287e28390c7cf5c.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 1850,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 7,
+          "EndXP": 100,
+          "EndYP": 25,
+          "Uri": "inner:///item/25405"
+        },
+        {
+          "BeginXP": 0,
+          "BeginYP": 26,
+          "EndXP": 100,
+          "EndYP": 44,
+          "Uri": "inner:///item/24952"
+        },
+        {
+          "BeginXP": 0,
+          "BeginYP": 44,
+          "EndXP": 100,
+          "EndYP": 62,
+          "Uri": "inner:///item/25097"
+        },
+        {
+          "BeginXP": 0,
+          "BeginYP": 62,
+          "EndXP": 33,
+          "EndYP": 81,
+          "Uri": "inner:///item/25403"
+        },
+        {
+          "BeginXP": 33,
+          "BeginYP": 62,
+          "EndXP": 67,
+          "EndYP": 81,
+          "Uri": "inner:///item/25263"
+        },
+        {
+          "BeginXP": 67,
+          "BeginYP": 62,
+          "EndXP": 100,
+          "EndYP": 81,
+          "Uri": "inner:///item/25046"
+        },
+        {
+          "BeginXP": 0,
+          "BeginYP": 81,
+          "EndXP": 33,
+          "EndYP": 100,
+          "Uri": "inner:///item/23984"
+        },
+        {
+          "BeginXP": 33,
+          "BeginYP": 81,
+          "EndXP": 67,
+          "EndYP": 100,
+          "Uri": "inner:///item/24776"
+        },
+        {
+          "BeginXP": 67,
+          "BeginYP": 81,
+          "EndXP": 100,
+          "EndYP": 100,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject20160411"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/cfa2407e57a745bb99916b55f11fb01a.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 620,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 1,
+          "BeginYP": 15,
+          "EndXP": 23,
+          "EndYP": 51,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject0407"
+        },
+        {
+          "BeginXP": 25,
+          "BeginYP": 15,
+          "EndXP": 51,
+          "EndYP": 53,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject070801"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 15,
+          "EndXP": 75,
+          "EndYP": 53,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject0323"
+        },
+        {
+          "BeginXP": 76,
+          "BeginYP": 15,
+          "EndXP": 99,
+          "EndYP": 53,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject062201"
+        },
+        {
+          "BeginXP": 1,
+          "BeginYP": 55,
+          "EndXP": 24,
+          "EndYP": 95,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject020903"
+        },
+        {
+          "BeginXP": 25,
+          "BeginYP": 55,
+          "EndXP": 49,
+          "EndYP": 95,
+          "Uri": "inner:///item/23511"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 55,
+          "EndXP": 75,
+          "EndYP": 95,
+          "Uri": "inner:///item/24774"
+        },
+        {
+          "BeginXP": 75,
+          "BeginYP": 55,
+          "EndXP": 100,
+          "EndYP": 95,
+          "Uri": "inner:///item/25094"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/fdbd35036c1c485b975a85ff7572708b.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 200,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 2,
+          "EndXP": 100,
+          "EndYP": 101,
+          "Uri": "http://m.lifevc.com/activity/oneyearwash?s=m#s={session}"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/7f76e379e0cb4847a6d55a65edb341bb.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 1380,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 22,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070102"
+        },
+        {
+          "BeginXP": 1,
+          "BeginYP": 23,
+          "EndXP": 45,
+          "EndYP": 48,
+          "Uri": "inner:///item/23844"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 23,
+          "EndXP": 98,
+          "EndYP": 48,
+          "Uri": "inner:///item/21521"
+        },
+        {
+          "BeginXP": 1,
+          "BeginYP": 49,
+          "EndXP": 48,
+          "EndYP": 74,
+          "Uri": "inner:///item/22830"
+        },
+        {
+          "BeginXP": 49,
+          "BeginYP": 49,
+          "EndXP": 98,
+          "EndYP": 74,
+          "Uri": "inner:///item/23582"
+        },
+        {
+          "BeginXP": 1,
+          "BeginYP": 75,
+          "EndXP": 48,
+          "EndYP": 99,
+          "Uri": "inner:///item/24937"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 75,
+          "EndXP": 98,
+          "EndYP": 98,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070102"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/5e1e40565e5147a8849f73b630ba0a60.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 1380,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 22,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070104"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 24,
+          "EndXP": 49,
+          "EndYP": 48,
+          "Uri": "inner:///item/23600"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 23,
+          "EndXP": 99,
+          "EndYP": 48,
+          "Uri": "inner:///item/25011"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 48,
+          "EndXP": 49,
+          "EndYP": 73,
+          "Uri": "inner:///item/22730"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 48,
+          "EndXP": 98,
+          "EndYP": 72,
+          "Uri": "inner:///item/23284"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 73,
+          "EndXP": 49,
+          "EndYP": 98,
+          "Uri": "inner:///item/24759"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 73,
+          "EndXP": 98,
+          "EndYP": 98,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070104"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/1e3cea01343b4608853918c1e9e281de.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 970,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 31,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070110"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 34,
+          "EndXP": 34,
+          "EndYP": 65,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject041702"
+        },
+        {
+          "BeginXP": 35,
+          "BeginYP": 33,
+          "EndXP": 65,
+          "EndYP": 64,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject042806"
+        },
+        {
+          "BeginXP": 66,
+          "BeginYP": 34,
+          "EndXP": 96,
+          "EndYP": 64,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject070116"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 65,
+          "EndXP": 33,
+          "EndYP": 98,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject0210001"
+        },
+        {
+          "BeginXP": 34,
+          "BeginYP": 65,
+          "EndXP": 65,
+          "EndYP": 97,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject070114"
+        },
+        {
+          "BeginXP": 66,
+          "BeginYP": 65,
+          "EndXP": 96,
+          "EndYP": 97,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070110"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/413a49647a19406d82f55a48129e992e.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 1380,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 22,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070106"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 23,
+          "EndXP": 49,
+          "EndYP": 48,
+          "Uri": "inner:///item/25116"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 23,
+          "EndXP": 99,
+          "EndYP": 49,
+          "Uri": "inner:///item/25236"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 48,
+          "EndXP": 48,
+          "EndYP": 73,
+          "Uri": "inner:///item/23707"
+        },
+        {
+          "BeginXP": 49,
+          "BeginYP": 48,
+          "EndXP": 99,
+          "EndYP": 73,
+          "Uri": "inner:///item/23709"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 73,
+          "EndXP": 47,
+          "EndYP": 98,
+          "Uri": "inner:///item/18165"
+        },
+        {
+          "BeginXP": 49,
+          "BeginYP": 73,
+          "EndXP": 98,
+          "EndYP": 98,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070106"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/d38c4504d1ae4d1bac0257b52cef4fdb.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 1380,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 22,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070108"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 23,
+          "EndXP": 49,
+          "EndYP": 48,
+          "Uri": "inner:///item/23994"
+        },
+        {
+          "BeginXP": 50,
+          "BeginYP": 23,
+          "EndXP": 99,
+          "EndYP": 49,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject070801"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 48,
+          "EndXP": 48,
+          "EndYP": 73,
+          "Uri": "inner:///item/23919"
+        },
+        {
+          "BeginXP": 49,
+          "BeginYP": 48,
+          "EndXP": 99,
+          "EndYP": 73,
+          "Uri": "inner:///item/24928"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 73,
+          "EndXP": 47,
+          "EndYP": 98,
+          "Uri": "inner:///item/24892"
+        },
+        {
+          "BeginXP": 49,
+          "BeginYP": 73,
+          "EndXP": 98,
+          "EndYP": 98,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070108"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/35f9e6158c1b422b916b3b0a69d156a9.jpg",
+      "ImageWidth": 751,
+      "ImageHeight": 970,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 0,
+          "EndXP": 100,
+          "EndYP": 31,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070112"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 34,
+          "EndXP": 33,
+          "EndYP": 65,
+          "Uri": "inner:///item/24116"
+        },
+        {
+          "BeginXP": 35,
+          "BeginYP": 34,
+          "EndXP": 65,
+          "EndYP": 65,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject060514"
+        },
+        {
+          "BeginXP": 66,
+          "BeginYP": 34,
+          "EndXP": 96,
+          "EndYP": 65,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject042805"
+        },
+        {
+          "BeginXP": 3,
+          "BeginYP": 65,
+          "EndXP": 33,
+          "EndYP": 97,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopicsubject021003"
+        },
+        {
+          "BeginXP": 35,
+          "BeginYP": 65,
+          "EndXP": 65,
+          "EndYP": 97,
+          "Uri": "app://tabpage/activities/ActivityShelf?code=ExhTopiclumbarsupport"
+        },
+        {
+          "BeginXP": 66,
+          "BeginYP": 65,
+          "EndXP": 96,
+          "EndYP": 97,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject070112"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/69410b3ad32e4f6ea1d49262902b7c59.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 201,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 2,
+          "EndXP": 100,
+          "EndYP": 99,
+          "Uri": "http://m.lifevc.com/Activity/GoldCoinShop/?id=1#s={session}"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": "",
+      "ClassName": null,
+      "ImageUrl": "/upload/combinationchart/c67db6265fb94762998bf0eb82376249.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 380,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 1,
+          "EndXP": 100,
+          "EndYP": 99,
+          "Uri": "javascript:void(0);"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/d739449788e544deb9e6e816665f1f6d.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 108,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 0,
+          "BeginYP": 2,
+          "EndXP": 100,
+          "EndYP": 96,
+          "Uri": "javascript:void(0);"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/0a364076e6584d0cba4f1d8717e3da9f.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2158,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 49,
+          "EndYP": 23,
+          "Uri": "inner:///item/25092"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 0,
+          "EndXP": 98,
+          "EndYP": 21,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDhouseworkstarpart02app"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 23,
+          "EndXP": 49,
+          "EndYP": 48,
+          "Uri": "inner:///item/24845"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 25,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/25224"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 48,
+          "EndXP": 48,
+          "EndYP": 70,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject041001"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 50,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/24394"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 73,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/23788"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 75,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/25139"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/e8411194247a47899f579f41ae868201.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2206,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 24,
+          "Uri": "inner:///item/18578"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 25,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject042805"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 24,
+          "EndXP": 48,
+          "EndYP": 48,
+          "Uri": "inner:///item/24569"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 26,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/24610"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 48,
+          "EndYP": 70,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject022402"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 50,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/24833"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 72,
+          "EndXP": 48,
+          "EndYP": 97,
+          "Uri": "inner:///item/24059"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 75,
+          "EndXP": 98,
+          "EndYP": 99,
+          "Uri": "inner:///item/24762"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/79922a43a81246009860960b917ce9b2.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2210,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 24,
+          "Uri": "inner:///item/23990"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 25,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject060512"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 24,
+          "EndXP": 48,
+          "EndYP": 48,
+          "Uri": "inner:///item/24749"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 26,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/25058"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 48,
+          "EndXP": 48,
+          "EndYP": 70,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject060510"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 50,
+          "EndXP": 98,
+          "EndYP": 74,
+          "Uri": "inner:///item/24888"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 72,
+          "EndXP": 48,
+          "EndYP": 96,
+          "Uri": "inner:///item/24960"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 75,
+          "EndXP": 98,
+          "EndYP": 99,
+          "Uri": "inner:///item/25211"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/f66cb142a91c47f99b329c39bc7eb7b9.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2209,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 24,
+          "Uri": "inner:///item/25045"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 25,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject042806"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 24,
+          "EndXP": 48,
+          "EndYP": 48,
+          "Uri": "inner:///item/25071"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 26,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/23030"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 48,
+          "EndXP": 48,
+          "EndYP": 70,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDsubject060519"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 50,
+          "EndXP": 98,
+          "EndYP": 74,
+          "Uri": "inner:///item/23918"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 72,
+          "EndXP": 48,
+          "EndYP": 96,
+          "Uri": "inner:///item/24111"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 75,
+          "EndXP": 98,
+          "EndYP": 99,
+          "Uri": "inner:///item/24164"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/15e2a974b0124a029e1dba911c0b47e3.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2212,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/24153"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 23,
+          "Uri": "http://m.lifevc.com/h5/#/activity/activityshelfv2/ExhTopicsubject041702"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/24182"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 51,
+          "Uri": "inner:///item/17516"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 48,
+          "EndYP": 70,
+          "Uri": "http://m.lifevc.com/h5/#/activity/promotionsnotime/App_DHHDhouseworkstarpart01app"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/17185"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 49,
+          "EndYP": 98,
+          "Uri": "inner:///item/18165"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/9567"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/f4988a3e6c1343ae9023899e1637fb82.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2216,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/24789"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/21926"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/22146"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/20819"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/23794"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/21732"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/10017"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/5764"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/cfed13bb6a9845ca9430f3cd2813d510.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2215,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/23742"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/25000"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/12196"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 51,
+          "Uri": "inner:///item/22767"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/18182"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/24735"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/20702"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/10524"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/3e92b18a8b0e47ffb26fbb5c0dc540c2.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2214,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/24467"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/25032"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/18698"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 51,
+          "Uri": "inner:///item/23046"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/24149"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/20699"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/23125"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/23024"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/b8b4840c370b4cf6af902b8bea593abb.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2216,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/23441"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/14153"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/23425"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 50,
+          "Uri": "inner:///item/21588"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/20116"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/23054"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/24840"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/23080"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/4249be5a45ba4602a496ba3402048aaa.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2214,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/22830"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/21398"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/16771"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 51,
+          "Uri": "inner:///item/23435"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/23530"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/22730"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/23930"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/16595"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/d27a446847ca4b26a08106ac6ead6c45.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 2214,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 0,
+          "EndXP": 48,
+          "EndYP": 25,
+          "Uri": "inner:///item/24881"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 2,
+          "EndXP": 98,
+          "EndYP": 26,
+          "Uri": "inner:///item/17956"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 25,
+          "EndXP": 48,
+          "EndYP": 49,
+          "Uri": "inner:///item/18442"
+        },
+        {
+          "BeginXP": 51,
+          "BeginYP": 27,
+          "EndXP": 98,
+          "EndYP": 51,
+          "Uri": "inner:///item/23639"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 49,
+          "EndXP": 49,
+          "EndYP": 74,
+          "Uri": "inner:///item/23239"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 51,
+          "EndXP": 98,
+          "EndYP": 75,
+          "Uri": "inner:///item/24257"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 74,
+          "EndXP": 48,
+          "EndYP": 98,
+          "Uri": "inner:///item/21380"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 76,
+          "EndXP": 98,
+          "EndYP": 100,
+          "Uri": "inner:///item/17048"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  },
+  {
+    "Source": "app",
+    "Type": "CombinationChart",
+    "Location": null,
+    "InnerData": {
+      "Title": "",
+      "SubTitle": null,
+      "ClassName": "UnionPanel",
+      "ImageUrl": "/upload/combinationchart/4c7a301b57c04f0f8c77e66e56de0ba7.jpg",
+      "ImageWidth": 750,
+      "ImageHeight": 1684,
+      "CountdownTag": "",
+      "CountdownTime": 0,
+      "TouchElem": [
+        {
+          "BeginXP": 2,
+          "BeginYP": 1,
+          "EndXP": 48,
+          "EndYP": 32,
+          "Uri": "inner:///item/24278"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 3,
+          "EndXP": 98,
+          "EndYP": 34,
+          "Uri": "inner:///item/17461"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 33,
+          "EndXP": 49,
+          "EndYP": 64,
+          "Uri": "inner:///item/25001"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 35,
+          "EndXP": 98,
+          "EndYP": 66,
+          "Uri": "inner:///item/23250"
+        },
+        {
+          "BeginXP": 2,
+          "BeginYP": 65,
+          "EndXP": 48,
+          "EndYP": 97,
+          "Uri": "inner:///item/24335"
+        },
+        {
+          "BeginXP": 52,
+          "BeginYP": 67,
+          "EndXP": 98,
+          "EndYP": 98,
+          "Uri": "inner:///item/11785"
+        }
+      ]
+    },
+    "HeaderBanners": [],
+    "FooterBanners": [],
+    "CountdownTime": 0
+  }
+]
